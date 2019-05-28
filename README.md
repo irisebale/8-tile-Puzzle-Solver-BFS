@@ -1,6 +1,7 @@
 # 8-tile-Puzzle-Solver-BFS
 
 A.I - Implemented BFS to solve the 8-tile puzzle or the n-puzzle problem.
+(The code should be run in python, it will work on any version)
 
 How to play:
   * You can click the "Solve" button then it will automatically shuffle and solve the problem itself.
